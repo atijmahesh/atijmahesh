@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atij Mahesh</h1>
-<h3 align="center">Rising Junior CS Student at UCLA. SWE Intern @ FocusAI</h3>
+<h3 align="center"> Junior CS Student at UCLA. Prev SWE Intern @ FocusAI, Castomize</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atijmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
 - 🔭 I’m currently working on [a cool stealth startup](https://github.com/atijmahesh/CourseBidder)
 
-- 🌱 I’m currently learning **so much Python although I love C++ and JS**
+- 🌱 I’m currently learning about **networking and NLP!**
 
 - 🤝 I’m looking for suggestions on [my personal site](https://github.com/atijmahesh/atijmahesh.github.io)
 
