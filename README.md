@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atij Mahesh</h1>
-<h3 align="center"> Junior CS Student at UCLA. Prev SWE Intern @ FocusAI, Castomize</h3>
+<h3 align="center"> Junior CS Student at UCLA. Incoming @ Square. Prev SWE Intern @ FocusAI (Acquired by Qualcomm) and Castomize</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atijmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
