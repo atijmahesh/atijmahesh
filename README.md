@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atijmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
-- 🔭 I’m currently working on [a cool stealth startup](https://github.com/atijmahesh/CourseBidder)
+- 🔭 I’m currently working on [CourseBidder](https:coursebidder.com)
 
-- 🌱 I’m currently learning about **networking and NLP!**
+- 🌱 I’m currently learning about **distributed systems and NLP research!**
 
-- 🤝 I’m looking for suggestions on [my personal site](https://github.com/atijmahesh/atijmahesh.github.io)
+- 🤝 I’m looking for suggestions on [my research](https://github.com/atijmahesh/Ctrl-G)
 
-- 💬 Ask me about **my steak cooking skills**
+- 💬 Ask me about **my foreign country travel stories**
 
 - 📫 How to reach me **atijmahesh914@gmail.com**
 
