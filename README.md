@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atij Mahesh</h1>
-<h3 align="center"> Senior CS Student at UCLA. SWE Intern @ Verkada Prev SWE Intern @ Square and FocusAI (Acquired by Qualcomm)</h3>
+<h3 align="center"> Senior CS Student at UCLA. SWE Intern @ Verkada Prev SWE Intern @ [Square](https://github.com/atij-block) and FocusAI (Acquired by Qualcomm)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atijmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
