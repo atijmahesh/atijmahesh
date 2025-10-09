@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Atij Mahesh</h1>
-<h3 align="center"> Junior CS Student at UCLA. Incoming @ Square. Prev SWE Intern @ FocusAI (Acquired by Qualcomm) and Castomize</h3>
+<h3 align="center"> Senior CS Student at UCLA. SWE Intern @ Verkada Prev SWE Intern @ Square and FocusAI (Acquired by Qualcomm)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atijmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
-- 🔭 I’m currently working on [CourseBidder](https:coursebidder.com)
+- 🔭 I’m currently working at [Verkada](https://github.com/atij-verkada)
 
-- 🌱 I’m currently learning about **distributed systems and NLP research!**
-
-- 🤝 I’m looking for suggestions on [my research](https://github.com/atijmahesh/Ctrl-G)
+- 🌱 I’m currently doing [NLP research](https://github.com/atijmahesh/nlp-research) in my spare time!
 
 - 💬 Ask me about **my foreign country travel stories**
 
