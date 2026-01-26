@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atij Mahesh</h1>
 <h3 align="center">
-  Senior CS Student at UCLA • SWE Intern @ Verkada • Prev SWE Intern @ 
+  Senior CS Student at UCLA • Prev SWE Intern @ 
+  <a href="https://github.com/atij-verkada" target="_blank">Verkada</a>, 
   <a href="https://github.com/atij-block" target="_blank">Square</a> 
   and FocusAI (Acquired by Qualcomm)
 </h3>
@@ -8,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atijmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
-- 🔭 I’m currently working at [Verkada](https://github.com/atij-verkada)
+- 🔭 I’m currently wrapping up my senior year at UCLA!
 
-- 🌱 I’m currently doing [NLP research](https://github.com/atijmahesh/nlp-research) in my spare time!
+- 🌱 I’m currently working on my <a href="https://atijmahesh.github.io" target="_blank">website</a> and writing a travel blog in my spare time!
 
-- 💬 Ask me about **my foreign country travel stories**
+- 💬 Ask me about **my recent foreign country travel stories**
 
 - 📫 How to reach me **atijmahesh914@gmail.com**
 
