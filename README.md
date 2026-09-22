@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atij Mahesh</h1>
 <h3 align="center">
-  Senior CS Student at UCLA • Prev SWE Intern @ 
+  SWE @ <a href="https://github.com/atij-mahesh_data" target="_blank">Databricks</a> , UCLA Alumni • Prev SWE Intern @ 
   <a href="https://github.com/atij-verkada" target="_blank">Verkada</a>, 
   <a href="https://github.com/atij-block" target="_blank">Square</a> 
   and FocusAI (Acquired by Qualcomm)
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atijmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
-- 🔭 I’m currently wrapping up my senior year at UCLA!
+- 🔭 I’m currently working at Databricks!
 
 - 🌱 I’m currently working on my <a href="https://atijmahesh.github.io" target="_blank">website</a> and writing a travel blog in my spare time!
 
